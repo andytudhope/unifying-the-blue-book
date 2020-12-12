@@ -75,7 +75,7 @@ const BrainNotesContainer = ({ slug, note, location, siteMetadata }) => {
       </Helmet>
       <header>
         <div className="font-bold py-2 border-b px-4">
-          <Link to="/" className="no-underline text-gray-900">
+          <Link to="/" className="no-underline text-navy">
             {siteMetadata.title}
           </Link>
         </div>

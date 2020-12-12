@@ -31,7 +31,7 @@ const BrainNote = ({ note }) => {
     if (references.length > 0) {
       referenceBlock = (
         <>
-          <h3>Referred in</h3>
+          <h3>Referenced in</h3>
           <div className="mb-4">{references}</div>
           <hr className="mx-auto w-32" />
         </>
@@ -60,6 +60,15 @@ const BrainNote = ({ note }) => {
     <components.a {...props} popups={popups} noPopups={width < 768} />
   );
 
+  var structureUrl = {};
+  var url = window.location.href;
+  console.log(url)
+  if (url.includes("?")) {
+    structureUrl = window.location+'&stackedPages=%2Fstructure';
+  } else {
+    structureUrl = window.location+'?stackedPages=%2Fstructure';
+  }
+
   return (
     <MDXProvider components={{ ...components, a: AnchorTagWithPopups }}>
       <div className="flex-1">
@@ -69,10 +78,12 @@ const BrainNote = ({ note }) => {
       <div className="refs-box bg-indigo-100 text-gray-600 rounded-lg mb-4 p-4">
         {referenceBlock}
         <p className="text-sm m-0">
-          If you think this note resonated, be it positive or negative, send me a{' '}
-          <a href="https://twitter.com/messages/compose?recipient_id=532906019">direct message</a>{' '}
-          on Twitter or an <a href="mailto:bsaaravind+notes@gmail.com">email</a> and we can talk.
-          Also ping if you'd like to know the updates on this note.
+          If you get lost, consult the {' '}<a href={structureUrl}>unifying structure</a>.
+        </p>
+        <p className="text-sm m-0">
+          If you find meaning here, seek me on{' '}
+          <a href="https://twitter.com/cryptowanderer">Twitter</a>{' '}
+          and we can talk.
         </p>
       </div>
     </MDXProvider>

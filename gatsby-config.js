@@ -1,6 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `@aravindballa's notes`,
+    title: `Unifying The Blue Book`,
+    siteUrl: "https://unifying.thebluebook.co.za",
+    url: "https://unifying.thebluebook.co.za",
+    description:
+      "The fourth peace of The Blue Book trilogy.",
+    image:
+      "https://thebluebook.co.za/img/unifying_structure.jpg",
+    twitterUsername: "@cryptowanderer",
   },
   plugins: [
     {

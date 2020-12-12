@@ -1,5 +1,5 @@
 {
-  "name": "@aravindballa/notes",
+  "name": "unifying-the-blue-book",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "clean": "gatsby clean"
   },
   "keywords": [],
-  "author": "Aravind Balla <bsaaravind@gmail.com> (https://aravindballa.com)",
+  "author": "Andy Tudhope <andy@status.im> (https://andytudhope.africa)",
   "license": "MIT",
   "dependencies": {
     "@tippyjs/react": "^4.0.2",

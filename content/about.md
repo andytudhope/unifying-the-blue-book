@@ -1,19 +1,21 @@
 ---
-title: About these notes
+title: One To One
 ---
 
-Hi, I'm [Aravind Balla](https://aravindballa.com) 👋
+Welcome to the fourth peace of [The Blue Book](https://thebluebook.co.za) trilogy. It is a work which will make very little sense if you use only your mind to read. It is too [[simple]], too [[obvious]]. You cannot _acquire_ knowledge about what you already are.
 
-These are the scattered and unfinished version of my thoughts that run in my head.🏃 Have a sneak peak into my brain. These notes don't have an index of all the things I write, so keep clicking through the things you find interesting. And if a note resembles with you, please let me know. If you strongly. disagree in a note, they you should tell me for sure. Send me a [direct message](https://twitter.com/messages/compose?recipient_id=532906019) on [Twitter](https://twitter.com/aravindballa) and we can talk.
+![56:62](https://thebluebook.co.za/img/first-remember.png)
 
-I'm getting into the habit of [[Writing]] again, and as a result, I have a few notes lying around in [Roam](https://roamresearch.com/) and [Notion](https://www.notion.so/?r=3102f5265a104fcab0afd4ec98f0c9dc).
+> "And you have already known the first creation, so will you not remember?" 56:62
 
-Present areas of focus are
+It is, in fact, inevitable that you will remember. Your only choice is whether you do so now or when you die. How can you make this choiceless choice? Stop.
 
-- Day job
-- [[Learning Curve]] podcast
-- Creating content
+Stop everything. Stop identifying with "your life". Realise that life has you, not the other way around. You are an experience in [consciousness](https://www.youtube.com/watch?v=WV-naO9ULp8) and, while your awareness is temporary and based on endless dualities, consciousness itself is One. There is no separate existence.
 
----
+Silence hints at that first sound beyond space and time. Stillness moves us through the impenetrable barrier of self, back to source. Honest submission before the paradox "I am" brings us to:
 
-This idea is inspired from [Max Stoiber](https://notes.mxstbr.com/) and [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes). This project is [opensource](https://github.com/aravindballa/notes.aravindballa.com/), built with [Gatsby](https://gatsbyjs.org) and uses [gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy/). I also wrote about [[how I built this]].
+![56:26](https://thebluebook.co.za/img/peace-peace.png)
+
+> "Only the saying, 'Peace! Peace'. " 56:26
+
+

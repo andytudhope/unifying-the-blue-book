@@ -5,6 +5,10 @@ body {
   height: 100vh;
 }
 
+h1, .text-navy {
+  color: #210057;
+}
+
 h1 {
   @apply text-3xl font-bold;
 }
