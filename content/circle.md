@@ -38,11 +38,17 @@ from where they buried me:
   
 this open field,  
 bursting at the seams.  
-    
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Open-Drop-enrnrh" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---
 
 ### Threads  
 
-[Die](https://thebluebook.co.za/canto-xi/fana.html)   
-[And come back](https://living.thebluebook.co.za/surrender/kramat.html)  
-[Into perfection](https://dyeing.thebluebook.co.za/?stackedPages=%2Fdeath)
+<a href="https://thebluebook.co.za/canto-xi/fana.html" target="_blank">Die</a><br/>
+<a href="https://living.thebluebook.co.za/surrender/kramat.html" target="_blank">And come back</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fdeath" target="_blank">Into perfection</a><br/>

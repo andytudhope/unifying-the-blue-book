@@ -36,10 +36,16 @@ back from my mind.
   
 O [[majesty]]! It is magnificent.    
 
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Turning-Strip-enqvti" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---
 
 ### Threads  
-  
-[Life's](https://thebluebook.co.za/canto-xiv/l-chaim.html)  
-[Signed message](https://living.thebluebook.co.za/responsibility/simplicity.html)  
-[Is one](https://dyeing.thebluebook.co.za/?stackedPages=%2Ftruth)  
+
+<a href="https://thebluebook.co.za/canto-xiv/l-chaim.html" target="_blank">Life's</a><br/>
+<a href="https://living.thebluebook.co.za/responsibility/simplicity.html" target="_blank">Signed message</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Ftruth" target="_blank">Is one</a><br/>  

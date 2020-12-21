@@ -25,11 +25,17 @@ in your resurrected chest:
 one more petal  
 falling  
 from an infinite flower.  
-  
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/The-Infinite-Moment-enslaj" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---
 
 ### Threads   
 
-[Unfolding](https://thebluebook.co.za/four-part-harmony/)    
-[The promise](https://living.thebluebook.co.za/faith/resurrection.html)  
-[At last](https://dyeing.thebluebook.co.za/?stackedPages=%2Fenough)
+<a href="https://thebluebook.co.za/four-part-harmony/" target="_blank">Unfolding</a><br/>
+<a href="https://living.thebluebook.co.za/faith/resurrection.html" target="_blank">The promise</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fenough" target="_blank">At last</a><br/>

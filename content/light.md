@@ -44,11 +44,17 @@ having revealed,
 by virtue of our service,  
 the sacred Light that lives in  
 all.  
-  
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/The-Simurgh-envd6r" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---  
 
 ### Threads  
 
-[The woods](https://thebluebook.co.za/canto-xii/old-people.html)  
-[Not the words](https://living.thebluebook.co.za/faith/no_words.html)  
-[Lead back to unity](https://dyeing.thebluebook.co.za/?stackedPages=%2Funicity)
+<a href="https://thebluebook.co.za/canto-xii/old-people.html" target="_blank">The woods</a><br/>
+<a href="https://living.thebluebook.co.za/faith/no_words.html" target="_blank">Not the words</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Funicity" target="_blank">Lead back to unity</a><br/>

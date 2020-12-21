@@ -18,7 +18,7 @@ that sliced through
 yet one  
 more self-image,  
 left me still in this  
-[[endless]], awe-struck,  
+[[endless]] awe-struck,  
 amazed.  
   
 A labyrinth of love  
@@ -35,12 +35,18 @@ calling out from on high
 a hint about heaven,  
 right here,  
 for which I have no words.  
-  
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Unwritten-envehh" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---  
 
 ### Threads  
 
-[Signing the way](https://thebluebook.co.za/canto-i/bedien.html)    
-[Home](https://living.thebluebook.co.za/responsibility/returned.html)  
-[Into Your heart](https://dyeing.thebluebook.co.za/?stackedPages=%2Fsecret)
+<a href="https://thebluebook.co.za/canto-i/bedien.html" target="_blank">Signing the way</a><br/>
+<a href="https://living.thebluebook.co.za/responsibility/returned.html" target="_blank">Home</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fsecret" target="_blank">Into Your heart</a><br/>
 

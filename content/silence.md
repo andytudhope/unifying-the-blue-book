@@ -30,8 +30,14 @@ back home.
 
 ---  
 
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Zoom-Zen-enujts" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
+---  
+
 ### Threads  
 
-[Fragrant love](https://thebluebook.co.za/canto-iv/dream.html)  
-[Hung in the heart](https://living.thebluebook.co.za/responsibility/sadratu_l_muntaha.html)  
-[Right Here](https://dyeing.thebluebook.co.za/?stackedPages=%2Fhere)
+<a href="https://thebluebook.co.za/canto-iv/dream.html" target="_blank">Fragrant love</a><br/>
+<a href="https://living.thebluebook.co.za/responsibility/sadratu_l_muntaha.html" target="_blank">Hung in the heart</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fhere" target="_blank">Right Here</a><br/>

@@ -23,11 +23,17 @@ humility of rain
 and yet will die trying,  
 entranced by one pink bloom  
 drenched in this eternal spring.  
-  
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Telling-All-enskg4" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---  
 
 ### Threads  
 
-[Burn it](https://thebluebook.co.za/canto-x/funereal.html)  
-[Forget yourself](https://living.thebluebook.co.za/surrender/use_me.html)  
-[Return to life](https://dyeing.thebluebook.co.za/?stackedPages=%2Fburn)
+<a href="https://thebluebook.co.za/canto-x/funereal.html" target="_blank">Burn it</a><br/>
+<a href="https://living.thebluebook.co.za/surrender/use_me.html" target="_blank">Forget yourself</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fburn" target="_blank">Return to life</a><br/>

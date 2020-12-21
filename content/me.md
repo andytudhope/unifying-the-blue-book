@@ -50,9 +50,15 @@ is greater.
 
 ---  
 
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Never-Mine-enrlii" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
+---  
+
 ### Threads  
 
-[Serve where masks melt](https://thebluebook.co.za/canto-i/shared-secrets.html)  
-[Until the source](https://living.thebluebook.co.za/trust/atman.html)  
-[Breaks through](https://dyeing.thebluebook.co.za/?stackedPages=%2Fbroken)
+<a href="https://thebluebook.co.za/canto-i/shared-secrets.html" target="_blank">Serve where masks melt</a><br/>
+<a href="https://living.thebluebook.co.za/trust/atman.html" target="_blank">Until the source</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fbroken" target="_blank">Breaks through</a><br/>
 

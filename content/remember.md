@@ -18,8 +18,14 @@ in unity.
 
 ---  
 
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Flowing-Memory-enuj7a" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
+---  
+
 ### Threads  
 
-[One scent](https://thebluebook.co.za/canto-viii/gaborone.html)  
-[To sing](https://living.thebluebook.co.za/love/promised_matter.html)  
-[Of sameness](https://dyeing.thebluebook.co.za/?stackedPages=%2Fwitness)
+<a href="https://thebluebook.co.za/canto-viii/gaborone.html" target="_blank">One scent</a><br/>
+<a href="https://living.thebluebook.co.za/love/promised_matter.html" target="_blank">To sing</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fwitness" target="_blank">Of sameness</a><br/>

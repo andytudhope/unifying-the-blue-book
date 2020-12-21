@@ -1,30 +1,37 @@
 ---
-title: Pictures of You
+title: You
 ---
 
-There's that photo I adore  
-of you looking [[beyond]] the beach  
-with the old shepherd   
-who played sister to   
-this small boy.  
+My life has left me  
+for love of You.  
+Just one letter remains.  
   
-You throw the doors open  
-every morning to watch our horizon  
-sink into a golden sea, so  
-it's faded now, the top half  
-almost completely white  
-and I wonder at this metaphor   
-for all our fate:  
-simply to fade into light.  
+No state. No station.  
+No way [[beyond]] here.  
   
-This loss we call living  
-is so alive with love,  
-it's a lie to even say it.    
+Nothing higher.  
+Nothing lower.  
+Nothing other  
+than this,  
+for its own sake.  
   
+Feel it and find there is  
+no feeling.  
+  
+I am that  
+empty field,  
+soulful.   
+
 ---  
 
-### Threads  
+### Listen
 
-[Dancing slowly](https://thebluebook.co.za/canto-x/slow-dance.html)  
-[In the shining rain](https://living.thebluebook.co.za/responsibility/rainshine.html)  
-[Forever](https://dyeing.thebluebook.co.za/?stackedPages=%2Fsea)
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/You-enrof7" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
+---  
+
+### Threads
+
+<a href="https://thebluebook.co.za/canto-xiv/be-again.html" target="_blank">Fully</a><br/>
+<a href="https://living.thebluebook.co.za/love/loves_dye.html" target="_blank">Dyed</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fjoy" target="_blank">With joy</a><br/>

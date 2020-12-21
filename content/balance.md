@@ -18,11 +18,17 @@ Here is the sworn will:
 you will remember.  
 It has been written for all,  
 always.  
-  
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Burning-Blue-envg0b" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---  
 
 ### Threads
 
-[It's always been here](https://thebluebook.co.za/canto-viii/thandeka.html)  
-[So surrender](https://living.thebluebook.co.za/faith/leaving_time.html)  
-[Your sense of separation](https://dyeing.thebluebook.co.za/?stackedPages=%2Fremember)
+<a href="https://thebluebook.co.za/canto-viii/thandeka.html" target="_blank">It's always been here</a><br/>
+<a href="https://living.thebluebook.co.za/faith/leaving_time.html" target="_blank">So surrender</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fremember" target="_blank">Your sense of separation</a><br/>

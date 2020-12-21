@@ -17,15 +17,21 @@ neither begetting nor begot,
 before the birth  
 of a white amaryllis tinged pink  
 in a show of pure devotion,  
-its dance of constant death  
+its dance a constant death  
 until separation stops  
 in objectless love,  
 emptied in Your fullness.    
 
 ---  
 
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/The-Prayer-enrl8a" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
+---  
+
 ### Threads  
 
-[The small prayer](https://thebluebook.co.za/buddha-blues/stand.html)  
-[Of a content soul](https://living.thebluebook.co.za/surrender/trinity_talks.html)  
-[Is lasting victory](https://dyeing.thebluebook.co.za/?stackedPages=%2Fvictory)
+<a href="https://thebluebook.co.za/buddha-blues/stand.html" target="_blank">The small prayer</a><br/>
+<a href="https://living.thebluebook.co.za/surrender/trinity_talks.html" target="_blank">Of a content soul</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fvictory" target="_blank">Is lasting victory</a><br/>

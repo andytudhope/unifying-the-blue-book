@@ -16,8 +16,14 @@ in Your perfection.
 
 ---  
 
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Giving-Up-enrm5n" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
+---  
+
 ### Threads  
 
-[Serve and](https://thebluebook.co.za/canto-ii/start-again.html)  
-[Search until what is](https://living.thebluebook.co.za/joy/cradle_voice.html)  
-[Not unties you](https://dyeing.thebluebook.co.za/?stackedPages=%2Fnot)
+<a href="https://thebluebook.co.za/canto-ii/start-again.html" target="_blank">Serve and</a><br/>
+<a href="https://living.thebluebook.co.za/joy/cradle_voice.html" target="_blank">Search until what is</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fnot" target="_blank">Not unties you</a><br/>

@@ -20,11 +20,17 @@ by the real
 author over old footpaths  
 where fools still come  
 to stop.   
-  
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Fully-Formless-enskbo" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---  
 
 ### Threads  
 
-[Read the flow](https://thebluebook.co.za/canto-i/espera.html)  
-[From an empty centre](https://living.thebluebook.co.za/faith/centred.html)  
-[With certain rhythm](https://dyeing.thebluebook.co.za/?stackedPages=%2Fdeath)
+<a href="https://thebluebook.co.za/canto-i/espera.html" target="_blank">Read the flow</a><br/>
+<a href="https://living.thebluebook.co.za/faith/centred.html" target="_blank">From an empty centre</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fdeath" target="_blank">With certain rhythm</a><br/>

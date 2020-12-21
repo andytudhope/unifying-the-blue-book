@@ -30,8 +30,15 @@ never-ending love of God.
 
 ---  
 
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Never-ending-Need-ensrqf" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
+---  
+
 ### Threads  
 
-[The meaning](https://thebluebook.co.za/canto-viii/thandeka.html)  
-[Of an obsessed](https://living.thebluebook.co.za/faith/obsession.html)  
-[Life](https://dyeing.thebluebook.co.za/?stackedPages=%2Flife)  
+<a href="https://thebluebook.co.za/canto-viii/thandeka.html" target="_blank">The meaning</a><br/>
+<a href="https://living.thebluebook.co.za/faith/obsession.html" target="_blank">Of an obsessed</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Flife" target="_blank">Life</a><br/>
+ 

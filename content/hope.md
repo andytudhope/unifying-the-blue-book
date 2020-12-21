@@ -51,11 +51,17 @@ before it was heard
 or told or thought,  
 this heart was alight,  
 inspired by life's love.   
-  
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Hopes-Fire-envcuc" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---  
 
 ### Threads  
 
-[Blazing forgiveness](https://thebluebook.co.za/canto-iii/tell-me.html)  
-[For those who remember](https://living.thebluebook.co.za/joy/curing_time.html)  
-[Imperfectly](https://dyeing.thebluebook.co.za/?stackedPages=%2Fself)
+<a href="https://thebluebook.co.za/canto-iii/tell-me.html" target="_blank">Blazing forgiveness</a><br/>
+<a href="https://living.thebluebook.co.za/joy/curing_time.html" target="_blank">For those who remember</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fself" target="_blank">Imperfectly</a><br/>

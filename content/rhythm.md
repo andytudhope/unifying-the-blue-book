@@ -28,11 +28,17 @@ Then ask for silence
 and stop dead.   
 There is only ever  
 One.    
-  
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Balancing-Hope-enuim1" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---  
 
 ### Threads  
 
-[A whole of light](https://thebluebook.co.za/canto-xii/spring.html)  
-[In endless](https://living.thebluebook.co.za/joy/filamental.html)  
-[Night](https://dyeing.thebluebook.co.za/?stackedPages=%2Fnight)
+<a href="https://thebluebook.co.za/canto-xii/spring.html" target="_blank">A whole of light</a><br/>
+<a href="https://living.thebluebook.co.za/joy/filamental.html" target="_blank">In endless</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fnight" target="_blank">Night</a><br/>

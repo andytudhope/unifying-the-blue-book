@@ -28,11 +28,17 @@ what really happened, of course,
 though I'll lay my life down  
 in a heartbeat to hear  
 your silent love again.    
-  
----  
-  
-## Threads
 
-[A buddha](https://thebluebook.co.za/buddha-blues/repeat.html)  
-[In every](https://living.thebluebook.co.za/peace/reverent.html)  
-[Silence](https://dyeing.thebluebook.co.za/?stackedPages=%2Fsilence)
+---   
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Empty-Form-ent4nv" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
+---   
+
+### Threads
+
+<a href="https://thebluebook.co.za/buddha-blues/repeat.html" target="_blank">A buddha</a><br/>
+<a href="https://living.thebluebook.co.za/peace/reverent.html" target="_blank">In every</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fsilence" target="_blank">Silence</a><br/>

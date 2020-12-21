@@ -18,10 +18,16 @@ of threaded truth:
 empty hands,   
 [[heart]] overflowing.   
 
+---
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Heartful-enqueq" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---  
 
 ### Threads  
 
-[Small](https://thebluebook.co.za/canto-i/smallness.html)    
-[Silent](https://living.thebluebook.co.za/faith/transmission.html)    
-[Service](https://dyeing.thebluebook.co.za/?stackedPages=%2Fserve)
+<a href="https://thebluebook.co.za/canto-i/smallness.html" target="_blank">Small</a><br/>    
+<a href="https://living.thebluebook.co.za/faith/transmission.html" target="_blank">Silent</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fserve" target="_blank">Service</a><br/>

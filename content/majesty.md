@@ -28,11 +28,17 @@ sat down facing [[me]]:
 "I am the only One  
 who will ever stand trial."  
 
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/The-Trial-enr07v" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---
 
 ### Threads  
 
-[No difference](https://thebluebook.co.za/canto-ii/de-noted.html)  
-[For the witness](https://living.thebluebook.co.za/joy/witness.html)  
-[Of perfection](https://dyeing.thebluebook.co.za/?stackedPages=%2Flight)
+<a href="https://thebluebook.co.za/canto-ii/de-noted.html" target="_blank">No difference</a><br/>
+<a href="https://living.thebluebook.co.za/joy/witness.html" target="_blank">For the witness</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Flight" target="_blank">Of perfection</a><br/>
 

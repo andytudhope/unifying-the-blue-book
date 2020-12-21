@@ -23,11 +23,17 @@ edge
 where, by grace, it gave up,  
 finally lost, drowned  
 in [[all]] this mercy.  
-  
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Breathing-Starlight-enrn7l" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---  
 
 ### Threads  
 
-[What matters](https://thebluebook.co.za/canto-vii/fox-street.html)  
-[Is ordinary](https://living.thebluebook.co.za/faith/take_me.html)  
-[Truth](https://dyeing.thebluebook.co.za/?stackedPages=%2Froot)
+<a href="https://thebluebook.co.za/canto-vii/fox-street.html" target="_blank">What matters</a><br/>
+<a href="https://living.thebluebook.co.za/faith/take_me.html" target="_blank">Is ordinary</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Froot" target="_blank">Truth</a><br/>

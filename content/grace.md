@@ -28,13 +28,20 @@ even if the exact words
 escaped me.  
   
 I trust you'll find me patient,   
-for this moment we first met  
+for this first moment we met  
 exists forever.    
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Graceful-Meeting-ensrcv" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
 
 ---  
 
 ### Threads  
 
-[Know content](https://thebluebook.co.za/canto-v/content.html)  
-[Through graceful letters](https://living.thebluebook.co.za/joy/seweweekspoort.html)  
-[Of perfection](https://dyeing.thebluebook.co.za/?stackedPages=%2Fspace)
+<a href="https://thebluebook.co.za/canto-v/content.html" target="_blank">Know content</a><br/>
+<a href="https://living.thebluebook.co.za/joy/seweweekspoort.html" target="_blank">Through graceful letters</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fspace" target="_blank">Of perfection</a><br/>
+

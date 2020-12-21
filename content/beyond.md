@@ -27,11 +27,17 @@ time's work
 to teach the syntax of one  
 soul sought by her  
 Beloved.  
-  
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Beyond-Love-ensl34" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---  
 
 ### Threads  
 
-[Out the red wake](https://thebluebook.co.za/canto-xiii/mars-and-the-moon.html)  
-[Into perfection](https://living.thebluebook.co.za/peace/golden_locks.html)  
-[Like it was before](https://dyeing.thebluebook.co.za/?stackedPages=%2Fline)
+<a href="https://thebluebook.co.za/canto-xiii/mars-and-the-moon.html" target="_blank">Out the red wake</a><br/>
+<a href="https://living.thebluebook.co.za/peace/golden_locks.html" target="_blank">Into perfection</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fline" target="_blank">Like it was before</a><br/>

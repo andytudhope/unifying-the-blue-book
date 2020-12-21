@@ -22,11 +22,17 @@ infinitely
 and no bird is ever alone,  
 held as it is  
 by a whole universe.  
-  
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Red-Winged-Worship-enrk8v" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---  
 
 ### Threads  
 
-[Rooted in](https://thebluebook.co.za/canto-iv/know.html)  
-[Patient](https://living.thebluebook.co.za/peace/upapa_africana.html)  
-[Song](https://dyeing.thebluebook.co.za/?stackedPages=%2Fmoment)
+<a href="https://thebluebook.co.za/canto-iv/know.html" target="_blank">Rooted in</a><br/>
+<a href="https://living.thebluebook.co.za/peace/upapa_africana.html" target="_blank">Patient</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fmoment" target="_blank">Song</a><br/>

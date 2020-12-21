@@ -31,12 +31,18 @@ that hell only tends toward eternity
 and that their name will be called  
   
 still, on the stroke of midnight.    
-  
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/The-Question-enuhsj" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---  
 
 ### Threads  
 
-[Breathing darkness](https://thebluebook.co.za/canto-xiii/ladybug-lamplight.html)  
-[And desire](https://living.thebluebook.co.za/peace/eternal_flame.html)  
-[Brings it all together](https://dyeing.thebluebook.co.za/?stackedPages=%2Feye)
+<a href="https://thebluebook.co.za/canto-xiii/ladybug-lamplight.html" target="_blank">Breathing darkness</a><br/>
+<a href="https://living.thebluebook.co.za/peace/eternal_flame.html" target="_blank">And desire</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Feye" target="_blank">Brings it all together</a><br/>
 

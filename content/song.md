@@ -41,10 +41,16 @@ we are a people after prophecy:
 imprinted with the promise of return,  
 forced to choose our path.  
 
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Whale-Song-ent4au" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---
 
 ### Threads  
 
-[Fractal](https://thebluebook.co.za/canto-vii/all-the-birds.html)  
-[Fugues](https://living.thebluebook.co.za/love/mountaintop.html)  
-[For every day](https://dyeing.thebluebook.co.za/?stackedPages=%2Fsong)
+<a href="https://thebluebook.co.za/canto-vii/all-the-birds.html" target="_blank">Fractal</a><br/>
+<a href="https://living.thebluebook.co.za/love/mountaintop.html" target="_blank">Fugues</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fsong" target="_blank">For every day</a><br/>

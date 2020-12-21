@@ -25,11 +25,17 @@ without duration.
   
 Nothing lasts.  
 It is only ever presence.   
-  
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Present-Life-enskn1" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---  
 
 ### Threads   
 
-[The sun's song](https://thebluebook.co.za/buddha-blues/sit.html)  
-[Is one](https://living.thebluebook.co.za/joy/al_ghafur.html)  
-[Prayer](https://dyeing.thebluebook.co.za/?stackedPages=%2Fprayer)  
+<a href="https://thebluebook.co.za/buddha-blues/sit.html" target="_blank">The sun's song</a><br/>
+<a href="https://living.thebluebook.co.za/joy/al_ghafur.html" target="_blank">Is one</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fprayer" target="_blank">Prayer</a><br/> 

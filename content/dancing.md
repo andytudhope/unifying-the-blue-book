@@ -26,9 +26,15 @@ be careful how you approach.
 
 ---  
 
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Heartdance-enuj1h" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
+---  
+
 ### Threads  
 
-[Keep looking](https://thebluebook.co.za/canto-i/moth-light.html)  
-[For the light](https://living.thebluebook.co.za/faith/pilgrimage.html)  
-[Until It finds you](https://dyeing.thebluebook.co.za/?stackedPages=%2Fsigned)
+<a href="https://thebluebook.co.za/canto-i/moth-light.html" target="_blank">Keep looking</a><br/>
+<a href="https://living.thebluebook.co.za/faith/pilgrimage.html" target="_blank">For the light</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fsigned" target="_blank">Until It finds you</a><br/>
 

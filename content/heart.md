@@ -23,8 +23,14 @@ heart.
 
 ---  
 
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/The-Perfume-Sellers-Heart-enqvoq" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
+---
+
 ### Threads  
-  
-[Whole-heartedly](https://thebluebook.co.za/canto-iii/adam.html)  
-[Living](https://living.thebluebook.co.za/faith/longing_life.html)  
-[Each moment](https://dyeing.thebluebook.co.za/?stackedPages=%2Fnow)
+ 
+<a href="https://thebluebook.co.za/canto-iii/adam.html" target="_blank">Whole-heartedly</a><br/>
+<a href="https://living.thebluebook.co.za/faith/longing_life.html" target="_blank">Living</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fnow" target="_blank">Each moment</a><br/>

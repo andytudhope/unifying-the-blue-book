@@ -27,8 +27,14 @@ the hearth of My infinity.
 
 ---  
 
-## Threads
+### Listen
 
-[Grave](https://thebluebook.co.za/canto-iii/gravity.html)  
-[Laughter](https://living.thebluebook.co.za/peace/laughter.html)  
-[On loop](https://dyeing.thebluebook.co.za/?stackedPages=%2Fbeach)
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Infinite-Reel-envfbk" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
+---  
+
+### Threads
+
+<a href="https://thebluebook.co.za/canto-iii/gravity.html" target="_blank">Grave</a><br/>
+<a href="https://living.thebluebook.co.za/peace/laughter.html" target="_blank">Laughter</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fbeach" target="_blank">On loop</a><br/>

@@ -25,11 +25,17 @@ who you think you are.
   
 It drenches everything:  
 there is no escape.   
-  
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/The-Straight-Path-envf1t" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---  
 
 ### Threads  
 
-[All trees](https://thebluebook.co.za/canto-ix/poplar-grove.html)  
-[Stand together](https://living.thebluebook.co.za/peace/guardianship.html)  
-[As guardians](https://dyeing.thebluebook.co.za/?stackedPages=%2Fway)  
+<a href="https://thebluebook.co.za/canto-ix/poplar-grove.html" target="_blank">All trees</a><br/>
+<a href="https://living.thebluebook.co.za/peace/guardianship.html" target="_blank">Stand together</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fway" target="_blank">As guardians</a><br/> 

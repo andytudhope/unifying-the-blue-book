@@ -34,6 +34,14 @@ const BrainNote = ({ note }) => {
           <h3>Referenced in</h3>
           <div className="mb-4">{references}</div>
           <hr className="mx-auto w-32" />
+          <RefLink
+            className="no-underline hover:text-gray-700"
+            to={`/structure`} // hack
+          >
+            <div className="py-2">
+              <p className="text-sm m-0 text-navy underline">If you find that you're lost, consult the unifying structure</p>
+            </div>
+          </RefLink>
         </>
       );
     }
@@ -60,15 +68,6 @@ const BrainNote = ({ note }) => {
     <components.a {...props} popups={popups} noPopups={width < 768} />
   );
 
-  var structureUrl = {};
-  var url = window.location.href;
-  console.log(url)
-  if (url.includes("?")) {
-    structureUrl = window.location+'&stackedPages=%2Fstructure';
-  } else {
-    structureUrl = window.location+'?stackedPages=%2Fstructure';
-  }
-
   return (
     <MDXProvider components={{ ...components, a: AnchorTagWithPopups }}>
       <div className="flex-1">
@@ -77,14 +76,6 @@ const BrainNote = ({ note }) => {
       </div>
       <div className="refs-box bg-indigo-100 text-gray-600 rounded-lg mb-4 p-4">
         {referenceBlock}
-        <p className="text-sm m-0">
-          If you get lost, consult the {' '}<a href={structureUrl}>unifying structure</a>.
-        </p>
-        <p className="text-sm m-0">
-          If you find meaning here, seek me on{' '}
-          <a href="https://twitter.com/cryptowanderer">Twitter</a>{' '}
-          and we can talk.
-        </p>
       </div>
     </MDXProvider>
   );

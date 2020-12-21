@@ -1,46 +1,54 @@
 ---
-title: Light Surfing
+title: Rain Bowing
 ---
 
-Behind first break, the blue  
-see-through has been so clear  
-you can catch the movement  
-of transparent fish and each little  
-grain of sand as it is sucked out  
-and then rushes back to shore  
-with every passing wave,  
-well-wishpering for all   
-the broken shells:  
-our sea's secret shakers  
-shoring up this song.  
+A mountain bows  
+before mercy's rain,  
+rumbling in its own  
+tectonic time  
+before it crashes back  
+into the ocean.  
   
-What's more, what's so far  
-beyond my measure,   
-is the [[light]].  
+This holy sea  
+of [[light]] between you  
+and God.  
   
-It dances on the ocean floor  
-in endless ripples,  
-a rainbow ringing forever's rhythm,  
-reaching through the hollow waters  
-to rhyme with swirling sand.  
+Tell them, lover,  
+tell them how I set sail  
+with soaring hope  
+and was stripped bare  
+by sincerity.  
   
-Even the waves forgotten  
-in this illumination,  
-for today I woke up  
-shocked to see the same  
-stream of single truth   
-traced in seven ways  
-across my skin,  
-itself moving just like  
-the sands below.  
+How I sank in that storm  
+like a blue stone,   
+was swallowed by the depths,  
+way down past any thought  
+of destination.  
   
-What bliss to simply be  
-here.    
+Only to be shown  
+there is no distance,  
+there was no time,  
+that what matters most  
+about mountains is not  
+their minerals but their merriment.  
   
+Majesty!  
+Move me only  
+to this remembrance,  
+reverence for a love  
+already within.  
+
 ---  
 
-## Threads  
+### Listen
 
-[Forever's](https://thebluebook.co.za/canto-xiv/it-becomes-you.html)  
-[Rhythm](https://living.thebluebook.co.za/love/divan.html)    
-[Repeated](https://dyeing.thebluebook.co.za/?stackedPages=%2Fpeace)
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Rain-Bowing-enui95" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
+---  
+
+### Threads  
+
+<a href="https://thebluebook.co.za/canto-xiv/pattern.html" target="_blank">The pattern</a><br/>
+<a href="https://living.thebluebook.co.za/responsibility/dying_to_remember.html" target="_blank">Is dying to remember</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fbe" target="_blank">That love already won</a><br/>
+

@@ -36,11 +36,17 @@ who made me to
 feel the passion  
 of what passes,   
 lit by permanent life.    
-  
+
+---  
+
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Eugenia-Uniflora-enr2hd" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
 ---  
 
 ### Threads
 
-[Remeber your](https://thebluebook.co.za/canto-ix/adagietto.html)  
-[Infinite hours](https://living.thebluebook.co.za/love/new_years_eve.html)  
-[Of song](https://dyeing.thebluebook.co.za/?stackedPages=%2Ftime)
+<a href="https://thebluebook.co.za/canto-ix/adagietto.html" target="_blank">Remeber your</a><br/>
+<a href="https://living.thebluebook.co.za/love/new_years_eve.html" target="_blank">Infinite hour</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Ftime" target="_blank">Of song</a><br/>

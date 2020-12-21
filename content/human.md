@@ -28,8 +28,15 @@ more sign of super natural life.
 
 ---  
 
+### Listen
+
+<iframe src="https://anchor.fm/andy-tudhope/embed/episodes/Between-Being-ent3ot" height="102px" width="100%" style="margin: 20px 0px;" frameborder="0" scrolling="no"></iframe>
+
+---  
+
 ### Threads  
 
-[We're just rainbows](https://thebluebook.co.za/canto-xii/tree-talks.html)  
-[Dreaming](https://living.thebluebook.co.za/responsibility/the_choice.html)  
-[The light](https://dyeing.thebluebook.co.za/?stackedPages=%2Fempty)  
+<a href="https://thebluebook.co.za/canto-xii/tree-talks.html" target="_blank">We're just rainbows</a><br/>
+<a href="https://living.thebluebook.co.za/responsibility/the_choice.html" target="_blank">Dreaming</a><br/>
+<a href="https://dyeing.thebluebook.co.za/?stackedPages=%2Fempty" target="_blank">The light</a><br/>
+  
