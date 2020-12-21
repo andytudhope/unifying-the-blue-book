@@ -14,4 +14,4 @@ This is part of my [ongoing](https://thebluebook.co.za) [attempt](https://living
 
 ## Acknowledgement
 
-This book uses the wonderful Aravind Balla's [Notes](Uses https://github.com/aravindballa/gatsby-theme-andy/). Thank you very much.
+This book uses the wonderful Aravind Balla's [Notes](https://github.com/aravindballa/gatsby-theme-andy/). Thank you very much.
